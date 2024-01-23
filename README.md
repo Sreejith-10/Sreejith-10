@@ -1,7 +1,7 @@
 ![MasterHead](https://glivera-team.com/wp-content/uploads/2019/11/fronend-blog.jpg)
 <h1 align="center">Hi 👋, I'm Sreejith</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" width="400" src="![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://github.com/Sreejith-10/Sreejith-10/assets/132558235/831447cb-ebfc-46d9-876f-76fc44e4508b)"/>
+<img align="right" width="400" src="https://github.com/Sreejith-10/Sreejith-10/assets/132558235/831447cb-ebfc-46d9-876f-76fc44e4508b"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejith-10&label=Profile%20views&color=0e75b6&style=flat" alt="sreejith-10" /> </p>
 
 - 🔭 I’m currently working on **Mern stack project**
