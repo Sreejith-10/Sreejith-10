@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **nodejs,express**
 
-- 👨‍💻 All of my projects are available at [http://bit.ly/sreejithportfolio](http://bit.ly/sreejithportfolio)
+- 👨‍💻 All of my projects are available at [https://portfoliosreejith.netlify.app/](https://portfoliosreejith.netlify.app/)
 
 - 💬 Ask me about **react,javascript,typescript**
 
