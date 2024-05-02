@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **nodejs,express**
 
-- 👨‍💻 All of my projects are available at [https://portfoliosreejith.netlify.app/](https://sreejithts.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sreejithts.vercel.app/](https://sreejithts.vercel.app/)
 
 - 💬 Ask me about **react,javascript,typescript**
 
